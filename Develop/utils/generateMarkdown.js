@@ -44,7 +44,7 @@ function generateMarkdown(data) {
   return `
   ${renderLicenseBadge(data.license)}
   
-  ## 🔥--${data.projectTitle}--🔥  
+  # 🔥--${data.projectTitle}--🔥  
 
   ## 📖--Description--📖
   The following is a brief description of my project:
