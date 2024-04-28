@@ -1,12 +1,11 @@
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-red)]
+  [![License: Mozilla Public License 2.0](https://img.shields.io/badge/License-Mozilla_Public_License_2.0-green)]
   
-  ## 🔥--Title--🔥
-  i dont know
+  ## 🔥--THE BEST PROJECT EVER--🔥  
 
   ## 📖--Description--📖
   The following is a brief description of my project:
-  why
+  a fun project
 
   ## 📋--Table of Contents--📋
   👉 [Description](#Description)
@@ -19,26 +18,26 @@
 
   ## 🛠️--Installation--🛠️
   The following instructions are the installation instuctions for my project:
-  w
+  open command line and input node index.js
 
   ## 🖱️--Usage--🖱️
   The usage information for my project is as follows:
-  w
+  none
 
   ## 🤝🏽--Contributors--🤝🏽
   Contributor information for my project:
-  w
+  none
 
   ## 💯--Tests--💯
   Test instructions for my project:
-  w
+  no tests
 
   ## 😵‍💫--Questions--😵‍💫
-  Come drop by on GitHub! (https://github.com/w)
+  Come drop by on GitHub! (https://github.com/nbruggeman92)
   ORRR...
-  Feel free to email with any questions at w
+  Feel free to email with any questions at nick.bruggeman92@gmail.com
   
   ## --License--
   The license my project is covered by is:
-  MIT
+  Mozilla Public License 2.0
   
