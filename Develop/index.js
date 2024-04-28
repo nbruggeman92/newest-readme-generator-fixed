@@ -3,7 +3,7 @@ const colors = require("colors");
 const inquirer = require("inquirer");
 const fs = require("fs");
 const path = require("path");
-const generateMarkdown = require("./generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown.js");
 
 // user prompt questions using inquirer
 const questions = [
