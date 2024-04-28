@@ -47,7 +47,6 @@ function generateMarkdown(data) {
   # 🔥--${data.projectTitle}--🔥  
 
   ## 📖--Description--📖
-  The following is a brief description of my project:
   ${data.projectDescription}
 
   ## 📋--Table of Contents--📋
@@ -60,19 +59,15 @@ function generateMarkdown(data) {
   👉 [Questions](#Questions)
 
   ## 🛠️--Installation--🛠️
-  The following instructions are the installation instuctions for my project:
   ${data.projectInstallationInstructions}
 
   ## 🖱️--Usage--🖱️
-  The usage information for my project is as follows:
   ${data.projectUsageInformation}
 
   ## 🤝🏽--Contributors--🤝🏽
-  Contributor information for my project:
   ${data.projectContributorInformation}
 
   ## 💯--Tests--💯
-  Test instructions for my project:
   ${data.testInstructions}
 
   ## 😵‍💫--Questions--😵‍💫
@@ -81,7 +76,6 @@ function generateMarkdown(data) {
   Feel free to email with any questions at ${data.email}
   
   ## --License--
-  The license my project is covered by is:
   ${data.license}
   `;
 }
