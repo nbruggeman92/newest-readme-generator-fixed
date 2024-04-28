@@ -1,12 +1,12 @@
 
-  [![License: BSD 3-Clause License](https://img.shields.io/badge/License-BSD_3_Clause-orange)]
+  [![License: Mozilla Public License 2.0](https://img.shields.io/badge/License-Mozilla_Public_License_2.0-green)]
   
-  # 🔥--SECOND BEST PROJECT EVER--🔥  
+  # 🔥  qwer  🔥  
 
-  ## 📖--Description--📖
-  i made this project to vent about how much i dislike shitters
+  ## 📖  Description  📖
+  qwer
 
-  ## 📋--Table of Contents--📋
+  ## 📋  Table of Contents  📋
   👉 [Description](#Description)
   👉 [Installation](#Installation)
   👉 [Usage](#Usage)
@@ -15,23 +15,23 @@
   👉 [Tests](#Tests)
   👉 [Questions](#Questions)
 
-  ## 🛠️--Installation--🛠️
-  don't be dumb, figure it out
+  ## 🛠️  Installation  🛠️
+  qwer
 
-  ## 🖱️--Usage--🖱️
-  wooo teddo!!!
+  ## 🖱️  Usage  🖱️
+  qwer
 
-  ## 🤝🏽--Contributors--🤝🏽
-  clo, herman, ted, roy, keeley, geralt, loid, yor
+  ## 🤝🏽  Contributors  🤝🏽
+  qwer
 
-  ## 💯--Tests--💯
-  ....no.
+  ## 💯  Tests  💯
+  qwer
 
-  ## 😵‍💫--Questions--😵‍💫
-  Come drop by on GitHub! (https://github.com/nbruggeman92)
+  ## 😵‍💫  Questions  😵‍💫
+  Come drop by on GitHub! (https://github.com/qwer)
   ORRR...
-  Feel free to email with any questions at nick.bruggeman92@gmail.com
+  Feel free to email with any questions at qwer
   
-  ## --License--
-  BSD 3-Clause License
+  ## LICENSE
+  Mozilla Public License 2.0
   

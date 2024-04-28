@@ -1,3 +1,4 @@
+// rendering license badge
 function renderLicenseBadge(license) {
   switch (license) {
     case "MIT":
@@ -40,16 +41,17 @@ function renderLicenseSection(license) {
   `
 }
 
+// generated README
 function generateMarkdown(data) {
   return `
   ${renderLicenseBadge(data.license)}
   
-  # 🔥--${data.projectTitle}--🔥  
+  # 🔥  ${data.projectTitle}  🔥  
 
-  ## 📖--Description--📖
+  ## 📖  Description  📖
   ${data.projectDescription}
 
-  ## 📋--Table of Contents--📋
+  ## 📋  Table of Contents  📋
   👉 [Description](#Description)
   👉 [Installation](#Installation)
   👉 [Usage](#Usage)
@@ -58,24 +60,24 @@ function generateMarkdown(data) {
   👉 [Tests](#Tests)
   👉 [Questions](#Questions)
 
-  ## 🛠️--Installation--🛠️
+  ## 🛠️  Installation  🛠️
   ${data.projectInstallationInstructions}
 
-  ## 🖱️--Usage--🖱️
+  ## 🖱️  Usage  🖱️
   ${data.projectUsageInformation}
 
-  ## 🤝🏽--Contributors--🤝🏽
+  ## 🤝🏽  Contributors  🤝🏽
   ${data.projectContributorInformation}
 
-  ## 💯--Tests--💯
+  ## 💯  Tests  💯
   ${data.testInstructions}
 
-  ## 😵‍💫--Questions--😵‍💫
+  ## 😵‍💫  Questions  😵‍💫
   Come drop by on GitHub! (https://github.com/${data.githubUsername})
   ORRR...
   Feel free to email with any questions at ${data.email}
   
-  ## --License--
+  ## LICENSE
   ${data.license}
   `;
 }
