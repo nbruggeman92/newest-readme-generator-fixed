@@ -20,7 +20,9 @@
 
 Live video of app using Screencastify:
 
-Screenshot of sample README:
+Screenshots of sample README:
+![picture1](/assets/images/project9pic1.jpg)
+![picture2](/assets/images/project9pic2.jpg)
 
 ## License
 
