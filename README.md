@@ -16,11 +16,11 @@
 
 ## Usage
 
-- Right click on the index.js file in your directory and click on "Open in integrated terminal". When the integrated terminal appears in the bottom portion of your screen input "node index.js" and press ENTER to begin the readme generator. Please answer all questions that appear in your terminal until you see a message that states "Getting results! Please hold!...".
+- Clone this repository and open with vscode. Right click on the index.js file in your directory and click on "Open in integrated terminal". When the integrated terminal appears in the bottom portion of your screen input "node index.js" and press ENTER to begin the readme generator. Please answer all questions that appear in your terminal until you see a message that states "Getting results! Please hold!...".
 
 Live video of app using Screencastify:
 
-Screenshot of generated repo:
+Screenshot of sample README:
 
 ## License
 
